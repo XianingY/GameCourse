@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Program Files\\UnityProgram\\PlatformerCourse\\",
+  "WorkspaceRootPath": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\program files\\unityprogram\\platformercourse\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Player.cs",
-              "DocumentMoniker": "F:\\Program Files\\UnityProgram\\PlatformerCourse\\Assets\\Player.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Player.cs",
-              "ToolTip": "F:\\Program Files\\UnityProgram\\PlatformerCourse\\Assets\\Player.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Player.cs",
               "RelativeToolTip": "Assets\\Player.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAawCsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-29T15:04:47.138Z",
               "EditorCaption": ""
