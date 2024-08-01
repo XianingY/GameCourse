@@ -96,6 +96,10 @@ public class Player : MonoBehaviour
         rb.velocity = new Vector2(knockbackPower.x * -facingDir, knockbackPower.y);
     }
 
+
+    public void Die()=>Destroy(gameObject);
+
+
     private IEnumerator KnockbackRoutine()
     {
 

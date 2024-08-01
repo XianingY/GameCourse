@@ -374,6 +374,9 @@
 -analyzer:"F:/Program Files/2022.3.34f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"F:/Program Files/2022.3.34f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/DamageTrigger.cs"
+"Assets/Scripts/DeadZone.cs"
+"Assets/Scripts/Fruit.cs"
+"Assets/Scripts/FruitPickup_VFX.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Player.cs"
 -langversion:9.0
