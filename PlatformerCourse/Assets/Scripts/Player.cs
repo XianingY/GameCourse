@@ -40,7 +40,7 @@ public class Player : MonoBehaviour
    
 
 
-    [Header("Collision info")]
+    [Header("Collision ")]
     [SerializeField] private float groundCheckDistance;
     [SerializeField] private float wallCheckDistance;
     [SerializeField] private LayerMask whatIsGround;
@@ -53,7 +53,11 @@ public class Player : MonoBehaviour
 
     private bool facingRight = true;
     private int facingDir = 1;
-   
+
+
+    [Header("VFX")]
+    [SerializeField] private GameObject deathVfx;
+
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();  
@@ -97,7 +101,11 @@ public class Player : MonoBehaviour
     }
 
 
-    public void Die()=>Destroy(gameObject);
+    public void Die()
+    {
+        GameObject newDeathVfx = Instantiate(deathVfx, transform.position, Quaternion.identity);
+        Destroy(gameObject);
+    }
 
 
     private IEnumerator KnockbackRoutine()

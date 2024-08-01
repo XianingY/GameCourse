@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\destroymeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroymeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\fruitpickup_vfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruitpickup_vfx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,57 +38,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "DeadZone.cs",
               "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DeadZone.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DeadZone.cs",
               "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DeadZone.cs",
               "RelativeToolTip": "Assets\\Scripts\\DeadZone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T10:59:58.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAQwGIAAAAAAAAA",
+              "ViewState": "AQIAANEAAAAAAAAAAAAmwOUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T10:54:05.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FruitPickup_VFX.cs",
-              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\FruitPickup_VFX.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FruitPickup_VFX.cs",
-              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\FruitPickup_VFX.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FruitPickup_VFX.cs",
+              "DocumentIndex": 1,
+              "Title": "DestroyMeEvent.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DestroyMeEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyMeEvent.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DestroyMeEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestroyMeEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:47:42.253Z"
+              "WhenOpened": "2024-08-01T08:47:42.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvx4AAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T05:03:16.029Z"
+              "WhenOpened": "2024-08-01T05:03:16.029Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Fruit.cs",
               "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Fruit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit.cs",
@@ -96,7 +98,8 @@
               "RelativeToolTip": "Assets\\Scripts\\Fruit.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAcwEMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T03:19:00.701Z"
+              "WhenOpened": "2024-08-01T03:19:00.701Z",
+              "EditorCaption": ""
             }
           ]
         }
