@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\checkpoint\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint\\checkpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\damagetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\damagetrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\trap_saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trap_saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|f:\\githubrepository\\gamecourse\\platformercourse\\assets\\scripts\\destroymeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroymeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\checkpoint\\startpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\checkpoint\\startpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\destroymeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\destroymeevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\deadzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F09D6529-B69D-0156-1596-4EB9D4AFD1C6}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\playeranimationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\playeranimationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\GithubRepository\\GameCourse\\PlatformerCourse\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,38 +57,77 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAcwH8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:45:14.565Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DamageTrigger.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DamageTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DamageTrigger.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DamageTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DamageTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T16:53:15.596Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DeadZone.cs",
-              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DeadZone.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DeadZone.cs",
-              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DeadZone.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DeadZone.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "Trap_Saw.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Trap_Saw.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Trap_Saw.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Trap_Saw.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Trap_Saw.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwDgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:59:58.273Z",
+              "WhenOpened": "2024-08-02T15:43:32.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AQIAANEAAAAAAAAAAAAmwOUAAAAqAAAA",
+              "DocumentIndex": 0,
+              "Title": "Checkpoint.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Checkpoint\\Checkpoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint\\Checkpoint.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Checkpoint\\Checkpoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint\\Checkpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:54:05.236Z",
+              "WhenOpened": "2024-08-02T09:28:54.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "StartPoint.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Checkpoint\\StartPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Checkpoint\\StartPoint.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Checkpoint\\StartPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Checkpoint\\StartPoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T08:43:02.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "DestroyMeEvent.cs",
               "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DestroyMeEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DestroyMeEvent.cs",
@@ -72,34 +135,67 @@
               "RelativeToolTip": "Assets\\Scripts\\DestroyMeEvent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T08:47:42.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T08:47:42.253Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvx4AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T05:03:16.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Fruit.cs",
               "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Fruit.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Fruit.cs",
               "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Fruit.cs",
               "RelativeToolTip": "Assets\\Scripts\\Fruit.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAcwEMAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwDAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T03:19:00.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T03:19:00.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerAnimationEvents.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimationEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T05:19:13.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T05:03:16.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwGUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:54:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeadZone.cs",
+              "DocumentMoniker": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DeadZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DeadZone.cs",
+              "ToolTip": "F:\\GithubRepository\\GameCourse\\PlatformerCourse\\Assets\\Scripts\\DeadZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DeadZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:59:58.273Z"
             }
           ]
         }

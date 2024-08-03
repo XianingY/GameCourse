@@ -373,12 +373,17 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"F:/Program Files/2022.3.34f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"F:/Program Files/2022.3.34f1c1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Scripts/Checkpoint/Checkpoint.cs"
+"Assets/Scripts/Checkpoint/FinishPoint.cs"
+"Assets/Scripts/Checkpoint/StartPoint.cs"
 "Assets/Scripts/DamageTrigger.cs"
 "Assets/Scripts/DeadZone.cs"
 "Assets/Scripts/DestroyMeEvent.cs"
 "Assets/Scripts/Fruit.cs"
 "Assets/Scripts/GameManager.cs"
-"Assets/Scripts/Player.cs"
+"Assets/Scripts/Player/Player.cs"
+"Assets/Scripts/Player/PlayerAnimationEvents.cs"
+"Assets/Scripts/Trap_Saw.cs"
 -langversion:9.0
 /deterministic
 /optimize+

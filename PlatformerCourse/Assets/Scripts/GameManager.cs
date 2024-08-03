@@ -15,8 +15,15 @@ public class GameManager : MonoBehaviour
     public Player player;
 
     [Header("Fruit Management")]
-    public bool fruitsHaveRandomLook;
+    public bool fruitsAreRandom;
     public int fruitsCollected;
+    public int totalFruits;
+
+    [Header("Checkpoints")]
+    public bool canReactivate;
+
+    
+
 
     private void Awake()
     {
@@ -25,6 +32,24 @@ public class GameManager : MonoBehaviour
         else
             Destroy(gameObject);
     }
+
+
+    private void Start()
+    {
+        CollectFruitsInfo();
+    }
+
+    private void CollectFruitsInfo()
+    {
+        Fruit[] allFruits = FindObjectsByType<Fruit>(FindObjectsSortMode.None);
+        totalFruits = allFruits.Length;
+    }
+
+    public void UpdateRespawnPosition(Transform newResPawnPoint)
+        =>respawnPoint = newResPawnPoint;
+    
+
+    
 
     public void RespawnPlayer() => StartCoroutine(RespawnCoroutine());
 
@@ -39,5 +64,5 @@ public class GameManager : MonoBehaviour
 
 
     public void AddFruit() => fruitsCollected++;
-    public bool FruitsHaveRandomLook() => fruitsHaveRandomLook;
+    public bool FruitsHaveRandomLook() => fruitsAreRandom;
 }

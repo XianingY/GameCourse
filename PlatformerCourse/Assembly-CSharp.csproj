@@ -61,11 +61,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\DamageTrigger.cs" />
+    <Compile Include="Assets\Scripts\Checkpoint\StartPoint.cs" />
+    <Compile Include="Assets\Scripts\Trap_Saw.cs" />
+    <Compile Include="Assets\Scripts\Player\Player.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerAnimationEvents.cs" />
     <Compile Include="Assets\Scripts\Fruit.cs" />
-    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Checkpoint\FinishPoint.cs" />
     <Compile Include="Assets\Scripts\DestroyMeEvent.cs" />
     <Compile Include="Assets\Scripts\DeadZone.cs" />
+    <Compile Include="Assets\Scripts\Checkpoint\Checkpoint.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
